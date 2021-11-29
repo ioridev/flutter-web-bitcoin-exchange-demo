@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_web_bitcoin_exchange/common/constants.dart';
-import 'package:flutter_web_bitcoin_exchange/provider/menu-controller.dart';
-import 'package:flutter_web_bitcoin_exchange/screens/main-screen.dart';
+import 'package:flutter_web_bitcoin_exchange/provider/menu_controller.dart';
+import 'package:flutter_web_bitcoin_exchange/screens/main_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 
